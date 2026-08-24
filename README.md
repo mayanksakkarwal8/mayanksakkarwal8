@@ -14,8 +14,8 @@
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=mayanksakkarwal8&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats-beryl-nu-69.vercel.app/.vercel.app/api?username=mayanksakkarwal8&show_icons=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats-beryl-nu-69.vercel.app.vercel.app/api?username=mayanksakkarwal8&show_icons=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-stats-beryl-nu-69.vercel.app/.vercel.app/api/top-langs/?username=mayanksakkarwal8&layout=compact"/>
+<img width="49%" src="https://github-readme-stats-beryl-nu-69.vercel.app.vercel.app/api/top-langs/?username=mayanksakkarwal8&layout=compact"/>
 
 </div>
